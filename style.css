@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.caja {
+  background-color: lightblue;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+iframe {
+      display: block;
+      margin: 0 auto;
+      width: 1000px;
+      height: 800px;
+      border: none;
+    }
